@@ -34,18 +34,6 @@ In this lab, we will cover:
 
 ---
 
-## 🚀 How to Start
-
-To work on this lab:
-
-1. Click on **Clone**  
-2. This will create a copy of the Studio in your Lightning account  
-3. Open the notebook and start coding  
-
-From now on, you will work on your personal cloned environment, so you can modify everything freely without affecting the original version.
-
----
-
 ## 📝 Assignment (Optional)
 
 After completing this lab, you are encouraged to work on the **Lab 1 Assignment** as preparation.
